@@ -1,6 +1,7 @@
 # HelloPlanet
 My Sane Repository
 
+![headshot](feo1.jpeg)
 # A little insight into Frank Alila
 Hi everyone am a first time coder would aspire to collaborate toward building, creating, 
 and pushing the boundaries of what you think is impossible today
